@@ -1,7 +1,26 @@
-• Hi, I’m Vitor Rocha, I`m 23 years old.
+# Hey there! 👋
 
-• I love coding and learning new things.
+I'm Vitor, a backend engineer based in Brazil.
 
-• I’m graduating in 'System Analysis and Development'.
+I design and build the part you don't see — and whatever else I can imagine.
 
-• I’m currently learning to be a full-stack developer.
+If an idea gets stuck in my head, chances are I'll build it and ship it.
+
+This is a profile where I'll be uploading some projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy/paste templates.
+
+---
+
+## Tools & Tech
+
+- Go, Python, C/C++, SQL
+- Docker, Kubernetes, CI/CD
+- HTML, CSS, JavaScript
+
+---
+
+## A Bit About Me
+
+- 🔧 I started out as a mechanical technician
+- 🎹 I play piano, badly, but often
+- ♟️ Played competitive chess, still play when I can
+- 📚 Always have a book going
