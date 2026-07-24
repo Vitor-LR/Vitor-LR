@@ -1,4 +1,4 @@
-# Hey there! 👋
+### Hey there! 👋
 
 I'm Vitor, a backend engineer based in Brazil.
 
@@ -10,7 +10,7 @@ This is a profile where I'll be uploading some projects, experiments, and things
 
 ---
 
-## Tools & Tech
+### Tools & Tech
 
 - Go, Python, C/C++, SQL
 - Docker, Kubernetes, CI/CD
@@ -18,7 +18,7 @@ This is a profile where I'll be uploading some projects, experiments, and things
 
 ---
 
-## A Bit About Me
+### A Bit About Me
 
 - 🔧 I started out as a mechanical technician
 - 🎹 I play piano, badly, but often
