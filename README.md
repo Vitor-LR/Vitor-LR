@@ -8,6 +8,8 @@ If an idea gets stuck in my head, chances are I'll build it and ship it.
 
 This is a profile where I'll be uploading some projects, experiments, and things I'm currently working on. Everything here is built from scratch, no copy/paste templates.
 
+vitorlombard.com.br
+
 ---
 
 ### Tools & Tech
